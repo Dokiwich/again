@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giới thiệu Minecraft</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Chào mừng đến với Minecraft</h1>
+        <p>Khám phá thế giới khối vuông kỳ diệu!</p>
+    </header>
+
+    <section class="intro">
+        <h2>Minecraft là gì?</h2>
+        <p>Minecraft là một trò chơi điện tử sandbox do Mojang Studios phát triển. Được ra mắt vào năm 2011, game cho phép người chơi xây dựng, khám phá và sinh tồn trong một thế giới được tạo ngẫu nhiên từ các khối vuông.</p>
+        <img src="https://minecraft.net/static/images/minecraft-logo.png" alt="Minecraft World">
+    </section>
+
+    <section class="features">
+        <h2>Tính năng nổi bật</h2>
+        <ul>
+            <li><strong>Chế độ sinh tồn:</strong> Thu thập tài nguyên, chiến đấu với quái vật và sống sót qua đêm.</li>
+            <li><strong>Chế độ sáng tạo:</strong> Xây dựng bất cứ thứ gì bạn tưởng tượng với tài nguyên vô hạn.</li>
+            <li><strong>Multiplayer:</strong> Chơi cùng bạn bè trên các server như Hypixel, Mineplex.</li>
+            <li><strong>Mod và Skin:</strong> Tùy chỉnh game với hàng ngàn mod và skin từ cộng đồng.</li>
+        </ul>
+    </section>
+
+    <section class="download">
+        <h2>Tải game ngay</h2>
+        <p>Trải nghiệm Minecraft trên nhiều nền tảng:</p>
+        <a href="https://www.minecraft.net/" target="_blank" class="btn">Tải Minecraft chính thức</a>
+        <p>Hoặc dùng launcher miễn phí như TLauncher cho bản cracked.</p>
+    </section>
+
+    <footer>
+        <p>© 2025 Giới thiệu Minecraft. Tạo bởi Grok 3.</p>
+    </footer>
+</body>
+</html>
